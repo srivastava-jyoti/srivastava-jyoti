@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am JYOTI!
+I am Jyoti Srivastava!
 
 <!-- <a href="https://twitter.com/negi_akhilesh3"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://discordapp.com/users/akhilesh#8614"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;
